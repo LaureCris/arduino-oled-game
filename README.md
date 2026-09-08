@@ -33,6 +33,10 @@ O personagem é controlado pelo joystick:
 
 ## 📸 Projeto
 
+### 🔌 Esquema de montagem
+
+![Esquema de montagem do Arduino](imagens/Esquema-de-montagem-arduino.jpg)
+
 Em breve, fotos e vídeo da montagem.
 
 ## 🚀 Objetivo
