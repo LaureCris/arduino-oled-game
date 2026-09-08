@@ -37,7 +37,9 @@ O personagem é controlado pelo joystick:
 
 ![Esquema de montagem do Arduino](imagens/Esquema-de-montagem-arduino.jpg)
 
-Em breve, fotos e vídeo da montagem.
+### 🎥 Demonstração
+
+[▶️ Assistir ao SpaceRun no YouTube](https://youtube.com/shorts/NZHqormcSE0?feature=share)
 
 ## 🚀 Objetivo
 
